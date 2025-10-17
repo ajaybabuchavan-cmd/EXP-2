@@ -1,3 +1,4 @@
+//Ajay Babu Chavan,UIN:-251P081,Year:-F.E,Division:-D
 #include <stdio.h>
 
 int main() {
@@ -8,4 +9,5 @@ int main() {
     (num % 2 == 0) ? printf("%d is Even.\n", num) : printf("%d is Odd.\n", num);
 
     return 0;
+
 }
